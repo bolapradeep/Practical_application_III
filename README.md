@@ -1,4 +1,4 @@
-##7 Practial Application III : Comparing Classifiers
+## Practial Application III : Comparing Classifiers
 
 ### Overview
 
